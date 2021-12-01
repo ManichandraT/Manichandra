@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManichandraT
+- 👋 Hi, I’m @Manichandra
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Devops automation
 - 💞️ I’m looking to collaborate on product based 
